@@ -1,1 +1,1 @@
-A website that is written in html and css. 
+A website that is written in HTML and CSS. 
